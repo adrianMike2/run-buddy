@@ -5,11 +5,11 @@
     margin-bottom: 40px;
   }
   .page-title {
-    font-color: #fce138
+    font-color:  #fce138
      inline-block
-    4px, solid, #fce138
-    top 0
-    right 80px
-    bottom 15px
-    left 80px
+    4px, solid, #fce138;
+    top: 0;
+    right: 80px;
+    bottom: 15px;
+    left: 80px;
   }
